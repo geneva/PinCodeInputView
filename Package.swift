@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "GenevaUIKit",
+    name: "PinCodeInputView",
     platforms: [
         .iOS(.v11)
     ],
